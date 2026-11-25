@@ -1,0 +1,23 @@
+# Temporal Pines terminal styling. ANSI colors follow the active terminal palette.
+filekinds:
+  directory: {foreground: Cyan, is_bold: true}
+  symlink: {foreground: Cyan}
+  mount_point: {foreground: Cyan, is_bold: true}
+header: {foreground: Magenta, is_bold: true, is_underline: false}
+date: {foreground: Yellow}
+users:
+  user_you: {foreground: Yellow, is_bold: true}
+  user_root: {foreground: Red, is_bold: true}
+  user_other: {foreground: Yellow}
+size:
+  number_byte: {foreground: Yellow}
+  number_kilo: {foreground: Yellow}
+  number_mega: {foreground: Yellow}
+  number_giga: {foreground: Yellow}
+  number_huge: {foreground: Yellow}
+file_type:
+  image: {foreground: Magenta}
+  video: {foreground: Magenta}
+git:
+  modified: {foreground: Yellow}
+  conflicted: {foreground: Red}

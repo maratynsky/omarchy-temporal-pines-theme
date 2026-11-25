@@ -1,0 +1,11 @@
+.DS_Store
+.env
+.env.*
+*api_key*
+*.key
+*.pem
+.venv/
+logs/
+*.bak
+*.bak.*
+*before-temporal-pines*
