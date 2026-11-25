@@ -37,10 +37,10 @@ Four AI-generated wallpapers are included:
 | --- | --- |
 | [Neon Drift](backgrounds/01-neon-drift.png) — DeLorean side profile | 1586 × 992 |
 | [Future City](backgrounds/02-future-city.png) — neon skyline and time travel | 1586 × 992 |
-| [Twin Pines Mall](backgrounds/03-twin-pines-mall.png) — two pines | 1672 × 941 |
+| [Twin Pines Mall](backgrounds/03-twin-pines-mall.png) — futuristic glass mall, elevated transit, and two pines | 1672 × 941 |
 | [Lone Pine Mall](backgrounds/04-lone-pine-mall.png) — one pine | 1672 × 941 |
 
-These are the original installed wallpapers. Native 4K replacements are planned and are not included in this version.
+Native 4K replacements are planned and are not included in this version. The [Twin Pines generation prompt](prompts/03-twin-pines-mall.txt) is included for future revisions.
 
 ## Optional terminal styling
 
